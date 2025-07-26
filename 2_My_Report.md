@@ -1,7 +1,9 @@
 # OSINT Case Report – Mossaman Commodities & FV Malaga  
 
-**Entity investigated**: Mossaman Commodities, Vessel FV Malaga  
+**Entity investigated**: Mossaman Commodities, Vessel FV Malaga
+
 **Report prepared by**: Devanshi Patel 
+
 **Date**: 26.07.2025 
 
 > 📌 **Disclaimer**  
@@ -27,7 +29,7 @@ A user who might be Musa Umar advertised the dark web website "Auslandian Delica
 
 ---
 
-## 🔍 Detailed Findings
+## Detailed Findings
 
 Mossaman Commodities' business registry lists the company's address as Ragati Road, 34670 Bigare. The records show that Musa Umar incorporated it and owns 100% shares. In December 2023, the company filed for insolvency. In March 2024, 80% of shares were acquired by Alpha Imports, which is based on the Isle of Don.
 
