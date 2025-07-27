@@ -85,7 +85,7 @@ The graph below summarizes the key individuals, companies, and infrastructure in
 
 ---
 
-## 🗓️ Timeline of Key Events
+## Timeline of Key Events
 
 This timeline shows the chronological flow of events observed during the investigation:
 
