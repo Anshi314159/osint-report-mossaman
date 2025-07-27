@@ -18,7 +18,7 @@ All characters, companies, and data were provided in the course and are not real
 ## View the Report
 
 - [Read Full OSINT Report (Markdown)](./2_My_Report.md)
-
+- [Download PDF version](./Report.pdf)
 
 ---
 
