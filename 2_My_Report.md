@@ -77,6 +77,22 @@ The investigation has uncovered multiple connections between Mossaman Commoditie
 
 ---
 
+## Case Graph
+
+The graph below summarizes the key individuals, companies, and infrastructure involved in the investigation:
+
+![Case Graph](./Assets/chart.png)
+
+---
+
+## 🗓️ Timeline of Key Events
+
+This timeline shows the chronological flow of events observed during the investigation:
+
+![Timeline](./Assets/timeline.png)
+
+---
+
 ## Recommendations
 
 Identify the second vessel listed under Mossaman Commodities in the ship registry. Port authority records, IMO number tracking, or maritime satellite data could provide more information.
